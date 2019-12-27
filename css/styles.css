@@ -15,15 +15,120 @@ h1 {
     height: 320px;
 }
 
-#video_izquierda{
-    
-}
 
 .portada{
     text-align: center;
+
 }
 
 nav{
     font-family: "Courier New", Courier, monospace;
     background-color:#091202;
+}
+
+.padd{
+    padding-left: 28px;
+}
+
+.padd2{
+    padding-left: 22px;
+}
+
+.padd3{
+    padding-left: 20px;
+}
+
+.padd4{
+    padding-left: 40px;
+}
+
+.letra{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    padding-left: 10px;
+    
+}
+
+.letra2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large; 
+    margin-left: 9px;
+    
+}
+
+.letra3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    padding-left: 10px;
+}
+
+.letra4{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    padding-left: 2px;
+    
+}
+
+.numeros{
+    color: #00a135;
+    padding-left: 24px;
+    font-size: xx-large;
+
+}
+
+.numeros2{
+    color: #00a135;
+    padding-left: 5px;
+    font-size: xx-large;
+
+}
+
+.numeros3{
+    color: #00a135;
+    padding-left: 18px;
+    font-size: xx-large;
+
+}
+
+.numeros4{
+    color: #00a135;
+    padding-left: 40px;
+    font-size: xx-large;
+
+}
+
+.titulo{
+    font-size: 55px;
+    text-align: center;
+}
+
+.titulo2{
+    text-align: center;
+    font-size: 30;
+
+}
+
+.titulo3{
+    text-align: center;
+
+}
+
+.titulo4{
+    padding-left: 535px;
+}
+
+.imagen{
+    width: 400px;
+    height: 300px;
+}
+
+.imagen1{
+
+    padding-left: 100px;
+    width: 80%;
+    height: 80%;
+}
+
+.imagen5{
+    padding-left: 300px;
 }
