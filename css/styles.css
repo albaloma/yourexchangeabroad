@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    font-family: "Courier New", Courier, monospace
+}
+
+.subtitulo {
+    border: solid 2px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif
+    background-image: url("../img/queen.jpg")
+}
+
+#video_derecha {
+    float: right;
+    width: 550px;
+    height: 320px;
+}
+
+#video_izquierda{
+    
+}
+
+.portada{
+    text-align: center;
+}
+
+nav{
+    font-family: "Courier New", Courier, monospace;
+    background-color:#091202;
+}
